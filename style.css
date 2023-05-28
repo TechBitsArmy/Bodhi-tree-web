@@ -206,6 +206,9 @@ footer .footer-copyright .policy a:hover {
   }
 }
 @media (max-width: 477px) {
+  .header {
+  padding: 15px 20px;
+}
   .hero .hero-box {
     width: 90%;
   }
